@@ -76382,7 +76382,7 @@ var $async$wp=A.Y(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:A.mj("fetch start")
 q=3
 s=6
-return A.a1(A.aD8(A.aAo("http","3.26.163.155","query.php",null)),$async$wp)
+return A.a1(A.aD8(A.aAo("https","3.26.163.155","query.php",null)),$async$wp)
 case 6:n=b
 if(n.b===200){j=n
 A.mj("\uc11c\ubc84 \uc751\ub2f5: "+A.aqd(A.ap1(j.e).c.a.h(0,"charset")).f1(0,j.w))
